@@ -1,2 +1,2 @@
-# pradneshResume
+# pradneshShindeResume
 Resume
